@@ -1,5 +1,6 @@
 
-
+Hello World! This is my github profile only for pet projects and education tasks. 
+Make love, make code.
 <!--
 **lyagu5h/lyagu5h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
